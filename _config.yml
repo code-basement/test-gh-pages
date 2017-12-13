@@ -1,4 +1,1 @@
-plugins:
-  - jekyll-remote-theme
-  
-remote_theme: code-basement/code-basement-starter-kit@docs
+  remote_theme: code-basement/code-basement-starter-kit
